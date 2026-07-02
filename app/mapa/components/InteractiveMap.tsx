@@ -29,7 +29,7 @@ const listapraias: Praias[] = [
   {id:"sepultura", nome:"Praia da Sepultura", coords:[-27.141600124053625, -48.47782295826987]},
   {id:"cantograndedentro", nome:"Canto Grande (Dentro)", coords:[-27.196933816760943, -48.50073804067316]},
   {id:"cantograndefora", nome:"Canto Grande (Fora)", coords:[-27.194538731419524, -48.49717960943676]},
-  {id:"quatroilhas ", nome:"Quatro Ilhas", coords:[-27.155396982336235, -48.48413828988905]},
+  {id:"quatroilhas", nome:"Quatro Ilhas", coords:[-27.155396982336235, -48.48413828988905]},
   {id:"retiro", nome:"Retiro dos Padres", coords: [-27.14546847519956, -48.47581271260816]},
   {id: "lagoinha", nome:"Praia da Lagoinha", coords: [-27.14546847519956, -48.48079089269203]},
   {id: "mariscal", nome: "Praia de Mariscal", coords: [-27.18021438921008, -48.50001696689765] },
