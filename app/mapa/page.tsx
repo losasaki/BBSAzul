@@ -40,7 +40,7 @@ export default function Page() {
 
       <main className="max-w-6xl mx-auto bg-white p-4 rounded-2xl shadow-lg">
         <div className="overflow-hidden rounded-xl">
-          <InteractiveMap />
+          <InteractiveMap onSelecionarPraia={() => {}} />
         </div>
       </main>
 
